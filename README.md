@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="Gif is broken :(" align="center" width="200">
   <h1 align="center"> Hi 👋, I'm Enrique </h1>
   <h3 align="center">
-    A fullstack web developer from Mexico. I like to create web sites 
+    A fullstack web developer from Mexico with a passion for creating awesome applications. I'm constantly learning new things and I like to improve my skills with MERN stack.
   </h3>
 </div>
 
