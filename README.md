@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="www.google.com" target="_blank">
+  <a href="https://www.linkedin.com/in/enrique-gutierrez-dev/" target="_blank">
     <img src="https://img.icons8.com/fluency/256/linkedin.png" alt="linkedin" align="center" width="30">
   </a>
 </div>
